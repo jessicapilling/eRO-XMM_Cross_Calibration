@@ -1,4 +1,4 @@
-# The region file
+# The Region File
 This includes the regions masking the cool gas extension in the Appendix, if you don't want to use these regions, they are the last three in the file with the colour green.
 
 
